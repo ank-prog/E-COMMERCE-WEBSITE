@@ -1,0 +1,560 @@
+.sambalpuri handloom-logo {
+    padding-right: auto;
+    display: inline-block;
+    margin-right: -4px;
+    position: relative;
+}
+
+#header.orderprocess-header {
+    background: url(images/orderprocess_header_bg-mobile\ \(1\).png) no-repeat bottom;
+    background-size: 250%;
+}
+#header.orderprocess-header {
+    background: url(images/orderprocess_header_bg-mobile\ \(1\).png) no-repeat top; 
+    position: absolute;
+    
+    padding-bottom: 60px;
+    margin: 2px 0 0;
+    display: block;
+    top: 0;
+}
+#header.orderprocess-header {
+    background: url(images/orderprocess_header_bg-mobile\ \(1\).png)  no-repeat #fff;
+    background-size: 100%;
+
+    background-position: center top 25px;
+    width: 100%;
+    transition: none;
+    padding: 2% 0;
+}
+#header.orderprocess-header {
+    
+    content: "";
+    background: url(images/orderprocess_header_bg-mobile\ \(1\).png) no-repeat top;
+    position: absolute;
+    background-size: 150%;
+    padding-bottom: 100px;
+    margin: 5px 0 0;
+    top: 0;
+}
+.container {
+    width: 97%;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container {
+    max-width: 100%;
+}
+.container {
+    width: 97%;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.secure {
+    color: black;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-family: PhilosopherBold;
+    float: right;
+    position: absolute;
+    right: 11px;
+    top: 19px;
+}
+.pageMinHeight {
+    min-height: 78px;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+}
+
+.container {
+    max-width: 100%;
+}
+.container {
+    width: 97%;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container {
+    max-width: 100%;
+}
+.container {
+    width: 97%;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.filterDatarowLeft[_ngcontent-serverApp-c55] {
+    padding: 22px 14px 0;
+}
+.filterDatarowLeft[_ngcontent-serverApp-c55] {
+    padding: 0 14px;
+}
+.filterDatarowLeft {
+    width: 100%;
+    
+    display: inline-block;
+    color: #aa8531;
+    text-align: center;
+    margin-bottom: 0;
+}
+h1, .h1 {
+    font-size: 2.5rem;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+}
+
+
+
+.heading03[_ngcontent-serverApp-c55] {
+    top: -5px!important;
+    margin-top: 0;
+    letter-spacing: 0;
+    font-size: 18px;
+}
+
+.heading03[_ngcontent-serverApp-c55] {
+    font-size: 24px;
+    margin-top: 42px;
+    letter-spacing: 3px;
+}
+
+.heading03 {
+    font-size: 20px;
+    margin-top: 30px;
+}
+.heading03 {
+    font-size: 19px;
+    line-height: 12px;
+    position: relative;
+    display: inline-block;
+    top: -10px;
+    text-transform: uppercase;
+    letter-spacing: 2.24px;
+    font-family: philosopherregular;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+  }
+  
+.loginContainer[_ngcontent-serverApp-c54] {
+    margin-top: 25px;
+}
+
+.loginContainer[_ngcontent-serverApp-c54] {
+    margin-top: 3px;
+}
+  .loginContainer[_ngcontent-serverApp-c54] {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 33px;
+}
+
+.loginContainer[_ngcontent-serverApp-c54] .loginForm[_ngcontent-serverApp-c54] {
+    width: 100%;
+    margin: auto;
+}
+
+.loginContainer[_ngcontent-serverApp-c54] .loginForm[_ngcontent-serverApp-c54] {
+    display: inline-block;
+    float: none;
+    width: 100%;
+    width: 540px;
+    margin: auto;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.loginForm[_ngcontent-serverApp-c54] .login-title[_ngcontent-serverApp-c54] {
+    
+    
+    margin-top: -3px;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+.loginForm[_ngcontent-serverApp-c54] .login-title[_ngcontent-serverApp-c54] {
+    background: #f5f1e9;
+    padding: 13px 0;
+    font-size: 20px;
+    margin-top: -3px;
+}
+
+.login-title[_ngcontent-serverApp-c54] {
+    color: black;
+    font-size: 13px;
+    font-family: philosopherregular;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+h2, .h2 {
+    font-size: 2rem;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+h2 {
+    font-size: 2rem;
+}
+h1, h2 {
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+}
+h1, h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.formItemsWidth[_ngcontent-serverApp-c54] {
+    width: 94%;
+    display: inline-block;
+}
+.formItemsWidth[_ngcontent-serverApp-c54] {
+    width: 405px;
+    display: inline-block;
+}
+
+.loginContainer[_ngcontent-serverApp-c54] .formBox[_ngcontent-serverApp-c54] {
+    margin-top: 25px;
+    padding-bottom: 8px;
+}
+
+.loginContainer[_ngcontent-serverApp-c54] .formBox[_ngcontent-serverApp-c54] {
+    margin-top: 37px;
+    padding-bottom: 8px;
+}
+
+.loginContainer[_ngcontent-serverApp-c54] .formBox[_ngcontent-serverApp-c54] {
+    width: 100%;
+    margin-top: 26px;
+    position: relative;
+    padding-bottom: 9px;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.loginContainer[_ngcontent-serverApp-c54] .input-box[_ngcontent-serverApp-c54] {
+    border: 1px solid #d5c8aa;
+    width: 100%;
+    display: block;
+    height: 50px;
+    position: relative;
+    z-index: 1;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.loginContainer[_ngcontent-serverApp-c54] .formBox[_ngcontent-serverApp-c54] .form-control[_ngcontent-serverApp-c54] {
+    padding: 0 10px;
+    width: 100%;
+    height: 100%;
+    border: none;
+    position: relative;
+    z-index: 9;
+    color: #8c8b8b;
+    font-size: 15px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 6px 0;
+    font-size: 1rem;
+    line-height: 20px;
+    color: #151515;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 2px solid #cfcfcf;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 6px 0;
+    font-size: 1rem;
+    line-height: 20px;
+    color: #151515;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 2px solid #cfcfcf;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+button, input {
+    overflow: visible;
+}
+input, button, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button, input {
+    overflow: visible;
+}
+input, button {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.loginContainer[_ngcontent-serverApp-c54] .formBox[_ngcontent-serverApp-c54] label[_ngcontent-serverApp-c54] {
+    font-size: 12px;
+    letter-spacing: 1.68px;
+    color: #89681f;
+    font-family: PhilosopherBold;
+    text-transform: uppercase;
+    position: absolute;
+    left: 19px;
+    top: -9px;
+    padding: 0 13px;
+    background: #fff;
+    z-index: 9;
+}
+
+.formBox[_ngcontent-serverApp-c54] label[_ngcontent-serverApp-c54] {
+    font-size: 14px!important;
+    top: -9px!important;
+}
+label {
+    display: inline-block;
+    margin-bottom: 0;
+}
+label {
+    display: inline-block;
+    margin-bottom: 0;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.loginContainer[_ngcontent-serverApp-c54] .formBox[_ngcontent-serverApp-c54] label[_ngcontent-serverApp-c54] {
+    font-size: 12px;
+    letter-spacing: 1.68px;
+    color: #89681f;
+    font-family: PhilosopherBold;
+    text-transform: uppercase;
+    position: absolute;
+    left: 19px;
+    top: -9px;
+    padding: 0 13px;
+    background: #fff;
+    z-index: 9;
+}
+
+.formBox[_ngcontent-serverApp-c54] label[_ngcontent-serverApp-c54] {
+    font-size: 14px!important;
+    top: -9px!important;
+}
+
+.formBox[_ngcontent-serverApp-c54] label[_ngcontent-serverApp-c54] {
+    font-size: 20px!important;
+    top: -18px!important;
+}
+label {
+    display: inline-block;
+    margin-bottom: 0;
+}
+label {
+    display: inline-block;
+    margin-bottom: 0;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.loginContainer[_ngcontent-serverApp-c54] .formBox[_ngcontent-serverApp-c54] label[_ngcontent-serverApp-c54] {
+    font-size: 12px;
+    letter-spacing: 1.68px;
+    color: #89681f;
+    font-family: PhilosopherBold;
+    text-transform: uppercase;
+    position: absolute;
+    left: 19px;
+    top: -9px;
+    padding: 0 13px;
+    background: #fff;
+    z-index: 9;
+}
+
+.formBox[_ngcontent-serverApp-c54] label[_ngcontent-serverApp-c54] {
+    font-size: 14px!important;
+    top: -9px!important;
+}
+
+.formBox[_ngcontent-serverApp-c54] label[_ngcontent-serverApp-c54] {
+    font-size: 20px!important;
+    top: -18px!important;
+}
+label {
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 0;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.showPassword[_ngcontent-serverApp-c54] {
+    top: 8px;
+}
+
+.showPassword[_ngcontent-serverApp-c54] {
+    position: absolute;
+    right: 12px;
+    top: 12px;
+    z-index: 9;
+    color: #000;
+}
+
+a {
+    outline: none;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.loginContainer[_ngcontent-serverApp-c56] .loginBtn[_ngcontent-serverApp-c56] {
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    position: relative;
+    margin-top: 22px;
+}
+.loginContainer[_ngcontent-serverApp-c56] .commonBtn[_ngcontent-serverApp-c56] {
+    width: 200px;
+    font-size: 14px;
+    height: 44px;
+    line-height: 44px;
+    cursor: pointer;
+    outline: none;
+}
+
+.loginContainer[_ngcontent-serverApp-c56] .commonBtn[_ngcontent-serverApp-c56] {
+    width: 200px;
+    font-size: 14px;
+    height: 44px;
+    line-height: 44px;
+    cursor: pointer;
+    outline: none;
+}
+
+
+.btn 
+{
+    width: 150px;
+    height: 49px;
+    outline: none;
+    border-radius: 49px;
+    color: #f5b107 ;
+    background-color: #e0d6d6;
+    text-transform: uppercase;
+    transition: all 0.5s;
+    margin: 10px 0;
+
+}
+.Social-text
+{
+    padding: 0.7rem 0;
+}
+.social-media
+{
+    display: flex;
+    justify-content: center;
+
+}
+.social-icon
+{
+    height: 46px;
+    width: 46px;
+    border: 1px solid #333;
+    margin: 0 0.45rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 1.3rem;
+    border-radius: 50%;
+}
+.social-icon:hover
+{
+    color: tomato;
+    border-color: #cfcfcf;
+}
+
+
+
+
+
+
+
+
